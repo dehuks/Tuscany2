@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/casr"
+    android:background="@drawable/pool"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -40,9 +40,9 @@
         android:id="@+id/feedtitle"
         android:layout_width="328dp"
         android:layout_height="90dp"
-        android:text="The Tour App"
-        android:textColor="#E4E8EC"
-        android:textSize="48dp"
+        android:text="Tuscany safaris"
+        android:textColor="#505050"
+        android:textSize="32dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

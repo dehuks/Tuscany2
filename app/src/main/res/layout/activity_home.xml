@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:weightSum="7"
-    android:background="@drawable/mine"
+    android:background="@drawable/family"
     tools:context=".Home_a">
 
     <LinearLayout
@@ -21,8 +21,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="The Tour App"
-            android:textColor="#fafafa"
+            android:text="Tuscany safaris"
+            android:textColor="#FFEB3B"
             android:textSize="30sp" />
 
     </LinearLayout>
@@ -71,7 +71,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="86dp"
-                        android:text="Details About ~The Tour"
+                        android:text="Details About Tuscany safaris"
                         android:textAlignment="center" />
                 </LinearLayout>
 
@@ -102,7 +102,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="82dp"
-                        android:text="Order a tour ~View Offers"
+                        android:text="Order our services"
                         android:textAlignment="center" />
                 </LinearLayout>
 

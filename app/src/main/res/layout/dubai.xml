@@ -13,10 +13,9 @@
         android:id="@+id/textView2"
         android:layout_width="326dp"
         android:layout_height="414dp"
-        android:text="Places to Visit         ~~-Beaches, Monkey Forest,Culture pro renowned resorts the Tanah Temple ,Sanur Beach and many other places...
-                        All this at coast of 150,000 ONLY.
-        Payment via Mpesa or contact Sir,Joshua at the number provided below
-            Always a pleasure Serving YOu..                                            ~~The Tour"
+        android:text="We are at your service for the purposes of consultation especially to those who have never been to the country and would like to know places they can visit.
+         This is done at a cost of 2,000 only. Payment can be via Mpesa or contact customer service at the number provided below
+            Always a pleasure Serving YOu..                                            ~~Tuscany safaris"
         android:textColor="#DFE1E0"
         android:textSize="25sp"
         android:textStyle="bold"
@@ -31,9 +30,9 @@
         android:id="@+id/feedtitle"
         android:layout_width="146dp"
         android:layout_height="77dp"
-        android:text="Dubai"
+        android:text="Consultancy"
         android:textColor="#D2D3DD"
-        android:textSize="48dp"
+        android:textSize="24dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -76,7 +75,7 @@
         android:id="@+id/btncalldubai"
         android:layout_width="255dp"
         android:layout_height="62dp"
-        android:text="Call: 0707760130"
+        android:text="Call: 0716259988"
         android:background="#056E6E"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"

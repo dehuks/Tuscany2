@@ -14,27 +14,26 @@
         android:id="@+id/textView2"
         android:layout_width="323dp"
         android:layout_height="422dp"
-        android:text="Places to Visit         ~~-Beaches, Monkey Forest,Culture pro renowned resorts the Tanah Temple ,Sanur Beach and many other places...
-                        All this at coast of 150,000 ONLY.
-        Payment via Mpesa or contact Sir,Joshua at the number provided below
-            Always a pleasure Serving YOu..                                            ~~The Tour"
+        android:text="We offer a variety of lodgind spaces all ver the country and even far and beyond our borders. Single rooms, Family rooms and pent houses.
+        Payment via Mpesa or contact customer care at the number provided below
+            Always a pleasure Serving YOu..                                            ~~Tuscany safaris"
         android:textColor="#000000"
         android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.813"
+        app:layout_constraintHorizontal_bias="0.818"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.32" />
+        app:layout_constraintVertical_bias="0.307" />
 
     <TextView
         android:id="@+id/feedtitle"
         android:layout_width="175dp"
         android:layout_height="79dp"
-        android:text="   Ghana"
+        android:text="Accommodation"
         android:textColor="#F5F6F8"
-        android:textSize="48dp"
+        android:textSize="24dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

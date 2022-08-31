@@ -38,7 +38,7 @@ class Bali : AppCompatActivity() {
         }
 
         pigiabali!!.setOnClickListener {
-            val intent = Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "+254707760130"))
+            val intent = Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "+254716259988"))
             if (ContextCompat.checkSelfPermission(
                     this@Bali,
                     android.Manifest.permission.CALL_PHONE

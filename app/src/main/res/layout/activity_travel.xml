@@ -18,7 +18,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Choose Your Destination:"
+            android:text="Choose Your Service:"
             android:textSize="30sp"
             android:textColor="@color/black"
             android:textStyle="bold"
@@ -52,14 +52,14 @@
                         android:layout_width="105dp"
                         android:layout_height="79dp"
                         android:layout_marginTop="18dp"
-                        android:src="@drawable/mombasa" />
+                        android:src="@drawable/therapy" />
 
                     <TextView
                         android:id="@+id/TvOne"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="20dp"
-                        android:text="Mombasa"
+                        android:text="Spa services"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold"
@@ -93,8 +93,8 @@
                         android:id="@+id/TvTwo"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="20dp"
-                        android:text="Zambia"
+                        android:layout_marginTop="10dp"
+                        android:text="Wildlife tour"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -120,14 +120,14 @@
                         android:layout_width="85dp"
                         android:layout_height="65dp"
                         android:layout_marginTop="18dp"
-                        android:src="@drawable/ghana" />
+                        android:src="@drawable/rooom" />
 
                     <TextView
                         android:id="@+id/TvThree"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="20dp"
-                        android:text="Ghana"
+                        android:text="Lodging"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -159,8 +159,8 @@
                         android:id="@+id/TvFour"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="20dp"
-                        android:text="Rwanda"
+                        android:layout_marginTop="10dp"
+                        android:text="Transport"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -186,14 +186,14 @@
                         android:layout_width="104dp"
                         android:layout_height="77dp"
                         android:layout_marginTop="18dp"
-                        android:src="@drawable/egypt" />
+                        android:src="@drawable/sky" />
 
                     <TextView
                         android:id="@+id/TvFive"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="20dp"
-                        android:text="Egypt"
+                        android:layout_marginTop="10dp"
+                        android:text="Recreational"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -219,14 +219,14 @@
                         android:layout_width="96dp"
                         android:layout_height="79dp"
                         android:layout_marginTop="18dp"
-                        android:src="@drawable/dubai" />
+                        android:src="@drawable/yes" />
 
                     <TextView
                         android:id="@+id/TvSix"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="20dp"
-                        android:text="Dubai"
+                        android:text="Consultancy"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold"/>
@@ -252,14 +252,14 @@
                         android:layout_width="88dp"
                         android:layout_height="62dp"
                         android:layout_marginTop="18dp"
-                        android:src="@drawable/bali" />
+                        android:src="@drawable/food" />
 
                     <TextView
                         android:id="@+id/TvSeven"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="20dp"
-                        android:text="Bali"
+                        android:text="Eateries"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -285,14 +285,14 @@
                         android:layout_width="89dp"
                         android:layout_height="64dp"
                         android:layout_marginTop="18dp"
-                        android:src="@drawable/paris" />
+                        android:src="@drawable/camp" />
 
                     <TextView
                         android:id="@+id/TvEight"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="20dp"
-                        android:text="Paris"
+                        android:layout_marginTop="10dp"
+                        android:text="Camping and hiking"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />

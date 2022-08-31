@@ -13,9 +13,8 @@
         android:id="@+id/textView2"
         android:layout_width="331dp"
         android:layout_height="416dp"
-        android:text="Places to Visit         ~~-Beaches, Monkey Forest,Culture pro renowned resorts the Tanah Temple ,Sanur Beach and many other places...
-                                     All this at coast of 150,000 ONLY.
-                                Payment via Mpesa or contact Sir,Joshua at the number provided below
+        android:text="Tuscany is at your service to provide you with an experience of touring Kenya's wildlife. All this is at a cost of only 20,000 per destination of your choice.
+                                Payment via Mpesa or contact customer service at the number provided below
                                  Always a pleasure Serving YOu..                                            ~~The Tour"
         android:textColor="#CDCCD3"
         android:textSize="25sp"
@@ -31,7 +30,7 @@
         android:id="@+id/feedtitle"
         android:layout_width="194dp"
         android:layout_height="60dp"
-        android:text=" Zambia"
+        android:text=" Wildlife"
         android:textColor="#01020E"
         android:textSize="48dp"
         android:textStyle="bold"
@@ -77,7 +76,7 @@
         android:layout_width="255dp"
         android:layout_height="62dp"
         android:background="#056E6E"
-        android:text="Call: 0707760130"
+        android:text="Call: 0716259988"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

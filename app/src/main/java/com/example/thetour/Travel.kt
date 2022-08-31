@@ -38,7 +38,7 @@ class Travel : AppCompatActivity() {
         mombasa.setOnClickListener{
             val got= Intent(this,Mombasa::class.java)
             startActivity(got)
-            Toast.makeText(this@Travel,"Mombasa", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Spa services", Toast.LENGTH_LONG).show()
         }
 
 
@@ -46,49 +46,49 @@ class Travel : AppCompatActivity() {
         bali.setOnClickListener{
             val intent= Intent(this,Bali::class.java)
             startActivity(intent)
-            Toast.makeText(this@Travel,"Bali", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Wildlife", Toast.LENGTH_LONG).show()
         }
 
         ghana=findViewById(R.id.ghanai)
         ghana.setOnClickListener{
             val intent= Intent(this,Ghana::class.java)
             startActivity(intent)
-            Toast.makeText(this@Travel,"Ghana", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Eateries", Toast.LENGTH_LONG).show()
         }
 
         zambia=findViewById(R.id.zambiai)
         zambia.setOnClickListener{
             val intent= Intent(this,Zambia::class.java)
             startActivity(intent)
-            Toast.makeText(this@Travel,"Zambia", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Wildlife", Toast.LENGTH_LONG).show()
         }
 
         paris=findViewById(R.id.parisi)
         paris.setOnClickListener{
             val intent= Intent(this,Paris::class.java)
             startActivity(intent)
-            Toast.makeText(this@Travel,"Paris", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Camping and hiking", Toast.LENGTH_LONG).show()
         }
 
         egypt=findViewById(R.id.egypti)
         egypt.setOnClickListener{
             val intent= Intent(this,Egypt::class.java)
             startActivity(intent)
-            Toast.makeText(this@Travel,"Egypt", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Recreational", Toast.LENGTH_LONG).show()
         }
 
         dubai=findViewById(R.id.dubaii)
         dubai.setOnClickListener{
             val intent= Intent(this,Dubai::class.java)
             startActivity(intent)
-            Toast.makeText(this@Travel,"Dubai", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Consultancy", Toast.LENGTH_LONG).show()
         }
 
         rwanda=findViewById(R.id.rwandai)
         rwanda.setOnClickListener{
             val intent= Intent(this,Rwanda::class.java)
             startActivity(intent)
-            Toast.makeText(this@Travel,"Rwanda", Toast.LENGTH_LONG).show()
+            Toast.makeText(this@Travel,"Transport services", Toast.LENGTH_LONG).show()
         }
 
 

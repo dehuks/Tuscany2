@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/the3"
+    android:background="@drawable/pool"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -13,11 +12,10 @@
         android:id="@+id/textView2"
         android:layout_width="325dp"
         android:layout_height="419dp"
-        android:text="Places to Visit         ~~-Beaches, Monkey Forest,Culture pro renowned resorts the Tanah Temple ,Sanur Beach and many other places...
-                        All this at coast of 150,000 ONLY.
-        Payment via Mpesa or contact Sir,Joshua at the number provided below
-            Always a pleasure Serving YOu..                                            ~~The Tour"
-        android:textColor="#DFE1E0"
+        android:text="We provide a range of recreational activies within the country and boast of a vast eexperience in the sector. One can go sky diving, Bungee jumping, swimming surfing among others.                        All this at coast of 200,000 ONLY.
+        Payment via Mpesa or contact customer care at the number provided below
+            Always a pleasure Serving YOu..                                            ~~Tuscany safaris"
+        android:textColor="#9C27B0"
         android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -29,18 +27,15 @@
 
     <TextView
         android:id="@+id/feedtitle"
-        android:layout_width="168dp"
-        android:layout_height="86dp"
-        android:text="   Egypt"
-        android:textColor="#F2F4FF"
-        android:textSize="48dp"
+        android:layout_width="312dp"
+        android:layout_height="80dp"
+        android:text="Recreational facilities"
+        android:textColor="#010833"
+        android:textSize="24dp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.934"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.024" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/payegypt"
@@ -76,8 +71,8 @@
         android:id="@+id/btncallegypt"
         android:layout_width="255dp"
         android:layout_height="62dp"
-        android:text="Call: 0707760130"
         android:background="#056E6E"
+        android:text="Call: 0716259988"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -3,6 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_about.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_contact.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_feedback.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_home.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_main.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_read_data.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_the_login.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/activity_travel.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/bali.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/dubai.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/egypt.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/ghana.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/mombasa.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/paris.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/rwanda.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/layout/zambia.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2385" />
+        <entry key="..\:/Users/HUKO/Android-Tour/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2385" />
         <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/drawable/header_bg.xml" value="0.207" />
         <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_about.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/User/AndroidStudioProjects/TheTour/app/src/main/res/layout/activity_contact.xml" value="0.19947916666666668" />

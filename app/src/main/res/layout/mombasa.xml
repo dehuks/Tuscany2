@@ -13,9 +13,7 @@
         android:id="@+id/textView2"
         android:layout_width="323dp"
         android:layout_height="422dp"
-        android:text="Places to Visit         ~~-Beaches, Monkey Forest,Culture pro renowned resorts the Tanah Temple ,Sanur Beach and many other places...
-                                     All this at coast of 150,000 ONLY.
-        Payment via Mpesa or contact Sir,Joshua at the number provided below
+        android:text="We have state of the art spa services provide at all our outlets across the country. Tuscany safaris being a chain of hotels and transportation activities, we mind the well being of our clients hence the pressure to ensure that all is available. Once ordered one can pay via cash or  at the number provided below
                                  Always a pleasure Serving YOu..                                            ~~The Tour"
         android:textColor="#040303"
         android:textSize="25sp"
@@ -31,7 +29,7 @@
         android:id="@+id/feedtitle"
         android:layout_width="216dp"
         android:layout_height="64dp"
-        android:text="Mombasa"
+        android:text="Spa services"
         android:textColor="#E4E4EA"
         android:textSize="48dp"
         android:textStyle="bold"

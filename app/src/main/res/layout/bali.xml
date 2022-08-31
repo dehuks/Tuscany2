@@ -14,10 +14,8 @@
         android:layout_width="307dp"
         android:layout_height="437dp"
         android:background="#056E6E"
-        android:text="Places to Visit         -Beaches, Monkey Forest,Culture pro renowned resorts the Tanah Temple ,Sanur Beach abnd many other places...               All this at
-coast of 150,000 ONLY.
- Payment via Mpesa or contact Sir,Joshua at the number provided below
-            Always a pleasure Serving YOu..                                            ~~The Tour"
+        android:text="We have eateries spread all over not only n our hotels but at various strategic locations country wide. Payment via Mpesa or contact customer care at the number provided below
+            Always a pleasure Serving You..                                            ~~Tuscany safaris"
         android:textColor="#01010C"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -31,8 +29,8 @@ coast of 150,000 ONLY.
         android:id="@+id/balititle"
         android:layout_width="164dp"
         android:layout_height="51dp"
-        android:text="       Bali"
-        android:textColor="#0719A8"
+        android:text="Food"
+        android:textColor="#481451"
         android:textSize="48dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -61,7 +59,7 @@ coast of 150,000 ONLY.
         android:id="@+id/btncallbali"
         android:layout_width="255dp"
         android:layout_height="62dp"
-        android:text="Call: 0707760130"
+        android:text="Call: 0716259988"
         android:background="#056E6E"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
